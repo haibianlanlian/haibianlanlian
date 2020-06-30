@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/haibianlanlian/haibianlanlian/issues"
   },
-  "homepage": "https://github.com/haibianlanlian/haibianlanlian#readme"
+  "homepage": "https://github.com/haibianlanlian/haibianlanlian#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
